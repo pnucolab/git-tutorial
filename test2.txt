@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 test2
 <<<<<<< HEAD
+=======
+sdfasdf
+
+>>>>>>> 25cf574c659e4e7ca538db4ea4f2e1e2d2e7aac9
 
